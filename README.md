@@ -1,7 +1,7 @@
 # Python Fun Games 🎮
 
 A collection of fun mini-games built in Python.  
-Play simple console-based games like **Turtle-Race**, **Snake**, **Sketch It**, and more to be added!  
+Play simple console-based games like **Turtle-Race**, **Snake**, **Sketch It**, and more !  
 This project is beginner-friendly and great for learning Python basics.
 
 ---
